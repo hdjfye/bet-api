@@ -1,0 +1,98 @@
+{
+    "races": [
+      {
+        "id": 1,
+        "name": "Beat the Clock to Yellow Rock",
+        "active": true,
+        "participants": []
+      },
+      {
+        "id": 2,
+        "name": "Idaho a Go-Go",
+        "active": true,
+        "participants": []
+      },
+      {
+        "id": 3,
+        "name": "The Baja-Ha-Ha Race",
+        "active": true,
+        "participants": []
+      },
+      {
+        "id": 4,
+        "name": "The Zippy Mississippi Race",
+        "active": true,
+        "participants": []
+      },
+      {
+        "id": 5,
+        "name": "Hot Race at Chillicothe",
+        "active": false,
+        "participants": []
+      },
+      {
+        "id": 6,
+        "name": "Rhode Island Road Race",
+        "active": true,
+        "participants": []
+      },
+      {
+        "id": 7,
+        "name": "Wacky Race to Ripsaw",
+        "active": true,
+        "participants": []
+      },
+      {
+        "id": 8,
+        "name": "The Dipsy Doodle Desert Derby",
+        "active": false,
+        "participants": []
+      }
+    ],
+    "cars": [
+      {
+        "id": 1,
+        "body": "The Boulder Mobile"
+      },
+      {
+        "id": 2,
+        "body": "The Buzzwagon"
+      },
+      {
+        "id": 3,
+        "body": "The Creepy Coupe"
+      },
+      {
+        "id": 4,
+        "body": "The Bulletproof Bomb"
+      },
+      {
+        "id": 5,
+        "body": "The Compact Pussycat"
+      },
+      {
+        "id": 6,
+        "body": "The Crimson Haybaler"
+      },
+      {
+        "id": 7,
+        "body": "The Convert-A-Car"
+      },
+      {
+        "id": 8,
+        "body": "The Arkansas Chuggabug"
+      },
+      {
+        "id": 9,
+        "body": "The Turbo Terrific"
+      },
+      {
+        "id": 10,
+        "body": "The Army Surplus Special"
+      },
+      {
+        "id": 11,
+        "body": "The Mean Machine"
+      }
+    ]
+}
